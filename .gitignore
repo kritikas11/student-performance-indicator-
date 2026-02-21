@@ -1,0 +1,4 @@
+per-ind/
+__pycache__/
+*.pyc
+.env
